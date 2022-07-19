@@ -1,5 +1,7 @@
 # **Hi👋, I'm Suryansh Soni**
 
+![](https://komarev.com/ghpvc/?username=suryanshsoni120&style=flat-square)
+
 
 - 🔭 I’m currently working on a new project
 - 🌱 I’m currently learning Data Structures and Algorithms
