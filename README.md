@@ -31,9 +31,9 @@
 
 <h4>💬 Connect with me : </h4> 
     <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/">
-        <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+        <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
     </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/surisoni10/"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+<a href="https://www.instagram.com/surisoni10/"><img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
 
 <br>
 <h2>📊 My Stats</h2>
