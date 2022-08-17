@@ -8,7 +8,7 @@
         Always%20learning%20new%20stuff&center=true&width=380&height=45"></a>
     </p> -->
     <div> 
-        <img src="https://komarev.com/ghpvc/?username=suryanshsoni120&label=Profile%20views&color=1E90FF&style=flat" alt="suryanshsoni120" />
+        ![](https://komarev.com/ghpvc/?username=suryanshsoni120)
         <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
     </div>
 </div>
