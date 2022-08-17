@@ -1,40 +1,95 @@
-<p>
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
-</p>
+![Header image](header.png "Yo")
 
-# Hi, I'm Suryansh Soni 👋
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/suryansh-soni-8b9a92185/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/surisoni10/)
-
-Here are some ideas to get you started:
-- :school: I'm currently studing in ... Kj Somaiya College of Engineering, Mumbai, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Android
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ...  Android Projects
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
-<br/>
-
-### Languages and Tools:
-<div display="flex">
-  <img src="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c++%20-%231572B6.svg?&style=for-the-badge&logo=c++&logoColor=white">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/android%20-%2300599C.svg?&style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center"> 
+    <h1>Hello coder! I'm Suryansh Soni 
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> 
+    </h1> 
+    <!-- <p align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Programmer;
+        Would%20love%20to%20collaborate!;
+        Always%20learning%20new%20stuff&center=true&width=380&height=45"></a>
+    </p> -->
+    <p align="center" style="font-size:22px;margin-top:0;border:none">
+        <i>
+        ⚡️ Shift the ctrl to me, I will alt the world ⚡️
+        </i>
+    </p>
+    <div> 
+        <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
+        <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
+    </div>
 </div>
-<br/>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=suryanshsoni120&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
+<h2>
+🚀 Insights
+</h2>
+<div>
+    <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="275" style="margin-left:25px" />
+    <ul>
+        <li style="font-size:18px">
+            I <b>welcome</b> you to witness my journey as a coding enthusiast who has set out to sail in ever growing tech world 🌏
+        </li>
+        <li style="font-size:17px">
+            Always seeking out opportunities to <b>develop</b> challenging applications, <b>collaborate</b> with like minded intellectuals and sharing these skillsets to give <b>back to the community</b> 💻
+        </li>
+        <li style="font-size:18px">
+            I do <i>Android Development</i> and keep exploring new fields 🔭
+        </li>
+        <li style="font-size:18px">
+            <b>Music</b> and <b>love</b> makes the world go around 🎧
+        </li>
+    </ul>
+</div>
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsoni120&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
+<h4>💬 Connect with me : </h4> 
+    <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/">
+        <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/surisoni10/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<br>
+<h2>📊 My Stats</h2>
+
+<a href="https://github.com/twilight-warlock">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsoni120&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="My Top Languages" />
+
+<a href="https://github.com/suryanshsoni120">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=suryanshsoni120&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="My Stats" />
+</a>
+
+<a href="https://github.com/suryanshsoni120">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryansh's's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsoni120&theme=neon-dark&hide_border=true"/>
+</a>
+
+<h2>🧩 Technologies worked with</h2>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="canva" width="40" height="40" title="R"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" title="Bash"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" title="Django"/>
+
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
+  <img src="https://img.icons8.com/ios/452/selenium-test-automation.png" alt="selenium" width="40" height="40" title="Selenium" />
+ 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
+  <img src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" alt="heroku" width="40" height="40" title="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" title="Javascript" />
+
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" title="React JS"/>
+ <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"title="TypeScript"/>
+ <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" title="canva"/>
+ <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="canva" width="40" height="40" title="Expo"/>
+ 
+</p>
