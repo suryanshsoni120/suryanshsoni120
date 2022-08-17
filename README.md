@@ -9,7 +9,7 @@
     </p> -->
     <div> 
         <img src = "https://komarev.com/ghpvc/?username=suryanshsoni120"/>
-        <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
+<!--         <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" /> -->
     </div>
 </div>
 
