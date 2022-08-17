@@ -26,11 +26,6 @@
         <li style="font-size:18px">
             I do <i>Android Development</i> and keep exploring new fields 🔭
         </li>
-        - 👨🏽‍💻 I’m currently working on NLP/NLU projects;
-        - 🌱 I’m currently learning Deep Reinforcement Learning; 
-        - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-        - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-        - 💬 Ask me about anything, I am happy to help;
     </ul>
 </div>
 
