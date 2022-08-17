@@ -4,11 +4,8 @@
 
 # Hi, I'm Suryansh Soni 👋
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/itsVivEKagent)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vivek-chauhan-769028174/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vivek.agent47/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/suryansh-soni-8b9a92185/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/surisoni10/)
 
 Here are some ideas to get you started:
 - :school: I'm currently studing in ... Kj Somaiya College of Engineering, Mumbai, India
@@ -23,27 +20,15 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <div display="flex">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/cpp%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
+  <img src="https://img.shields.io/badge/android%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 <br/>
-
-### Machine:
-<div display="flex">
-  <img src="https://img.shields.io/badge/windows-MSI%20GL63%208RC-%23F50F0F.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/ubuntu-MSI%20GL63%208RC-%23dd4814.svg?&style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-GeForce%20gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</div>
-<br>
 
 <details>
   <summary>:zap: Github Stats</summary>
