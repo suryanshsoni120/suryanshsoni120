@@ -58,9 +58,9 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsoni120&theme=neon-dark&hide_border=true"/>
 </a>
 <h2>💬 Connect with me : </h2> 
-    <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/" target="_blank">
+    <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/">
         <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
     </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/surisoni10/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+<a href="https://www.instagram.com/surisoni10/"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
 
 </p>
