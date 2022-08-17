@@ -8,7 +8,7 @@
         Always%20learning%20new%20stuff&center=true&width=380&height=45"></a>
     </p> -->
     <div> 
-        ![](https://komarev.com/ghpvc/?username=suryanshsoni120)
+        <img src = "https://komarev.com/ghpvc/?username=suryanshsoni120"/>
         <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
     </div>
 </div>
@@ -22,7 +22,7 @@
         <li style="font-size:18px">
             I <b>welcome</b> you to witness my journey as a coding enthusiast who has set out to sail in ever growing tech world 🌏
         </li>
-        <li style="font-size:17px">
+        <li style="font-size:18px">
             Always seeking out opportunities to <b>develop</b> challenging applications, <b>collaborate</b> with like minded intellectuals and sharing these skillsets to give <b>back to the community</b> 💻
         </li>
         <li style="font-size:18px">
