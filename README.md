@@ -17,18 +17,20 @@
             A coding enthusiast committed to learning and developing skills in new technologies in ever growing tech world 🌏
         </li>
         <li style="font-size:20px">
-            Always seeking out opportunities and collaborating with others on group projects💻
+            Always seeking out opportunities and collaborating with others on group projects 💻
         </li>
         <li style="font-size:20px">
             I do <i>Android Development</i> and keep exploring new fields 🔭
-        </li>
-        <li style="font-size:20px">
-            I’m looking to collaborate on opensource👯
         </li>
     </ul>
 </div>
 
 <br>
+<h2>💬 Connect with me : </h2> 
+    <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/">
+        <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+    </a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/surisoni10/"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
 <h2>🧩 Languages and Tools</h2>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
@@ -60,10 +62,6 @@
 <a href="https://github.com/suryanshsoni120">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsoni120&theme=neon-dark&hide_border=true"/>
 </a>
-<h2>💬 Connect with me : </h2> 
-    <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/">
-        <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-    </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/surisoni10/"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+
 
 </p>
