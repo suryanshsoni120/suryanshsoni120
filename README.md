@@ -39,7 +39,7 @@
 <br>
 <h2>📊 My Stats</h2>
 
-<a href="https://github.com/twilight-warlock">
+<a href="https://github.com/suryanshsoni120">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsoni120&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="My Top Languages" />
 
 <a href="https://github.com/suryanshsoni120">
