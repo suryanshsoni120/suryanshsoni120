@@ -50,7 +50,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsoni120&theme=neon-dark&hide_border=true"/>
 </a>
 
-<h2>🧩 Technologies worked with</h2>
+<h2>🧩 Languages and Tools</h2>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" title="Jupyter"/>
