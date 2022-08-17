@@ -22,6 +22,9 @@
         <li style="font-size:20px">
             I do <i>Android Development</i> and keep exploring new fields 🔭
         </li>
+        <li style="font-size:20px">
+            I’m looking to collaborate on opensource👯
+        </li>
     </ul>
 </div>
 
