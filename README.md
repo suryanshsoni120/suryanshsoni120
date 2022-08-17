@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 <div display="flex">
   <img src="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/cpp%20-%231572B6.svg?&style=for-the-badge&logo=cpp&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
+  <img src="https://img.shields.io/badge/c++%20-%231572B6.svg?&style=for-the-badge&logo=c++&logoColor=white">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/android%20-%2300599C.svg?&style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
