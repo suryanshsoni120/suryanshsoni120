@@ -14,7 +14,7 @@
 </div>
 
 <h2>
-🚀 Insights
+🚀 About
 </h2>
 <div>
     <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="275" style="margin-left:25px" />
