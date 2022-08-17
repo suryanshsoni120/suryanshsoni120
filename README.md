@@ -33,7 +33,7 @@
     <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/">
         <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
     </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/surisoni10/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/surisoni10/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/3884/3884554.png"></a>
 
 <br>
 <h2>📊 My Stats</h2>
