@@ -52,11 +52,10 @@
 
 <h2>🧩 Languages and Tools</h2>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" title="Jupyter"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="40" height="40" title="Android"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" title="Kotlin"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40" title="C++"/>
 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
@@ -66,6 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40" title="Oracle"/>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40" title="Jupyter"/>
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40" title="VS Code"/>
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" title="Canva"/>
  
