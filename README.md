@@ -2,11 +2,6 @@
     <h1>Hello coder! I'm Suryansh Soni 
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> 
     </h1> 
-    <!-- <p align="center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Programmer;
-        Would%20love%20to%20collaborate!;
-        Always%20learning%20new%20stuff&center=true&width=380&height=45"></a>
-    </p> -->
     <div> 
         <img src = "https://komarev.com/ghpvc/?username=suryanshsoni120"/>
     </div>
