@@ -14,10 +14,10 @@
     <img src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align="right" width="300" height="200"/>
     <ul>
         <li style="font-size:18px">
-            I am a coding enthusiast who has set out to sail in ever growing tech world 🌏
+            A coding enthusiast committed to learning and developing skills in new technologies in ever growing tech world 🌏
         </li>
         <li style="font-size:18px">
-            Always seeking out opportunities to <b>develop</b> challenging applications, <b>collaborate</b> with like minded intellectuals and sharing these skillsets to give <b>back to the community</b> 💻
+            Always seeking out opportunities and collaborating with others on group projects💻
         </li>
         <li style="font-size:18px">
             I do <i>Android Development</i> and keep exploring new fields 🔭
