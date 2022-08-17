@@ -57,7 +57,7 @@
 <a href="https://github.com/suryanshsoni120">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsoni120&theme=neon-dark&hide_border=true"/>
 </a>
-<h4>💬 Connect with me : </h4> 
+<h2>💬 Connect with me : </h2> 
     <a href="https://www.linkedin.com/in/suryansh-soni-8b9a92185/">
         <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
     </a>&nbsp;&nbsp;
