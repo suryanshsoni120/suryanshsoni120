@@ -1,5 +1,3 @@
-![Header image](header.png "Yo")
-
 <div align="center"> 
     <h1>Hello coder! I'm Suryansh Soni 
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> 
@@ -9,11 +7,6 @@
         Would%20love%20to%20collaborate!;
         Always%20learning%20new%20stuff&center=true&width=380&height=45"></a>
     </p> -->
-    <p align="center" style="font-size:22px;margin-top:0;border:none">
-        <i>
-        ⚡️ Shift the ctrl to me, I will alt the world ⚡️
-        </i>
-    </p>
     <div> 
         <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
         <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
