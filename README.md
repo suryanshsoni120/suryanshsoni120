@@ -38,6 +38,7 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" title="Kotlin"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40" title="C++"/>
+  <img src="https://www.iconbolt.com/iconsets/elastic-ui-logos/golang.svg" alt="go" width="40" height="40" title="Go"/>
 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
