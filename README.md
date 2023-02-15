@@ -22,7 +22,7 @@
             Always seeking out opportunities and collaborating with others on group projects 💻
         </li>
         <li style="font-size:20px">
-            I do <i>Android Development</i> and keep exploring new fields 🔭
+            I do <i>Java Full Stack Development</i> and keep exploring new fields 🔭
         </li>
     </ul>
 </div>
