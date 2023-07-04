@@ -46,11 +46,13 @@
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="c++" width="40" height="40" title="C++"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" title="Spring"/>
-  <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/springboot.svg" alt="springboot" width="40" height="40" title="Spring Boot"/>
+<!--   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" title="Spring"/> -->
+<!--   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/springboot.svg" alt="springboot" width="40" height="40" title="Spring Boot"/> -->
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" title="Appwrite"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40" title="Docker"/>
+<!--   <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40" title="Docker"/> -->
 <br>
 <h2>📊 My Stats</h2>
 
