@@ -29,10 +29,10 @@
 
 <br>
 <h2>💬 Connect with me : </h2> 
-    <a href="https://www.linkedin.com/in/suryanshsoni120/">
+    <a href="https://www.linkedin.com/in/suryanshsoni120/" target="_blank">
         <img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
     </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/surisoni10/"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+<a href="https://www.instagram.com/surisoni10/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
 <h2>🧩 Tools and Technology</h2>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5"/>
@@ -60,14 +60,14 @@
 <br>
 <h2>📊 My Stats</h2>
 
-<a href="https://github.com/suryanshsoni120">
+<a href="https://github.com/suryanshsoni120" target="_blank">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsoni120&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="My Top Languages" />
 
-<a href="https://github.com/suryanshsoni120">
+<a href="https://github.com/suryanshsoni120" target="_blank">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=suryanshsoni120&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="My Stats" />
 </a>
 
-<a href="https://github.com/suryanshsoni120">
+<a href="https://github.com/suryanshsoni120" target="_blank">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suryansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsoni120&theme=neon-dark&hide_border=true"/>
 </a>
 
